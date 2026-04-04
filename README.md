@@ -1,26 +1,12 @@
-**👋 Hey there!**  
+### Hi, I'm william or will 🤙
 
-- 🇧🇷 I'm William.  
-- ☁️ AWS Certified Cloud Practitioner – CLF-C02 (2025 - 2028)
-- 💙 +4yrs building solutions.
-- 🔤 C1 English Level & native brazilian portuguese.
-
-<br>
-
-**😎 Let's connect!**  
-
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/william-augusto">
-    <img src="https://img.shields.io/badge/LinkedIn-038aff?style=for-the-badge&logo=linkedin-white&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:william.santos315@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-038aff?style=for-the-badge&logo=msoutlook&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/users/william-augusto.ff4352ea">
-    <img src="https://img.shields.io/badge/Credly-E37400?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</p>
-
-
+* 🏢 **Mid Software Engineer** @ **CI&T** 💻
+* 🚀 **+4yrs** building fullstack solutions with **React & Next.js** ⚡
+* 🐧 **Linux & AWS** enthusiast | **Pop!_OS** user 🛠️
+* 🇺🇸 **English Speaker** (C1 path) | 10h+ **Cambly** certified 🗣️
+* 🏃‍♂️ **Hybrid Athlete:** Bodybuilding & Runner 🏋️‍♂️
+* 🐶 **Dog Lover** | 🌙 **Dark Aesthetic** & Minimalist 🌌
+* 🌍 Available for **Remote Work** worldwide ⚡
+---
+- ✨ **Visit my world:** [willsto.dev](https://willsto.dev)
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/william-augusto/) | [Email](mailto:william.santos315@outlook.com)
