@@ -1,8 +1,8 @@
 ### Hi, I'm william or will 🤙
 
 * 🏢 **Mid Software Engineer** @ **CI&T** 💻
-* 🚀 **+4yrs** building fullstack solutions with **React & Next.js** ⚡
-* 🐧 **Linux & AWS** enthusiast | **Pop!_OS** user 🛠️
+* 🚀 **+4yrs** building fullstack solutions with **Node Ecosystem** ⚡
+* 🐧 **Linux & AWS** enthusiast
 * 🇺🇸 **English Speaker** (C1 path) | 10h+ **Cambly** certified 🗣️
 * 🏃‍♂️ **Hybrid Athlete:** Bodybuilding & Runner 🏋️‍♂️
 * 🐶 **Dog Lover** | 🌙 **Dark Aesthetic** & Minimalist 🌌
